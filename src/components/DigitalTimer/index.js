@@ -1,4 +1,3 @@
-// Write your code here
 import {useState, useEffect} from 'react'
 import './index.css'
 
